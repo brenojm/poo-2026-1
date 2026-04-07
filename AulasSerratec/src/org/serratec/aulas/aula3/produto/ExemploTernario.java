@@ -2,6 +2,8 @@ package org.serratec.aulas.aula3.produto;
 
 import java.util.Scanner;
 
+import org.serratec.aulas.aula2.conta.Conta;
+
 public class ExemploTernario {
 
 	public static void main(String[] args) {
