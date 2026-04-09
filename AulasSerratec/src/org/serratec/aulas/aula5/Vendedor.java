@@ -25,5 +25,8 @@ public class Vendedor {
 		this.cpf = cpf;
 	}
 	
+	public void calcularSalario(double valorVenda) {
+
+	}
 	
 }

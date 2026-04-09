@@ -3,6 +3,7 @@ package org.serratec.aulas.aula5.teste;
 import java.util.Scanner;
 
 import org.serratec.aulas.aula5.Fixo;
+import org.serratec.aulas.aula5.Vendedor;
 
 public class TestaVendedor {
 	public static void main(String[] args) {
@@ -12,8 +13,11 @@ public class TestaVendedor {
 		double valorVenda;
 		double totalVendido = 0;
 		
+		
 		Fixo f1 = new Fixo("Joana", "12345678901", 2000, 3);
 		Fixo f2 = new Fixo("Maria", "12345678902", 2000, 5);
+		
+		Fixo[] vendedores = {f1, f2};
 		
 		System.out.println("----------------Sistema de Vendas----------------");
 		System.out.println("Vendedores: ");
