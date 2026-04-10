@@ -27,10 +27,11 @@ public class Pedido {
 		double totalPedido = 0;
 		for(int i = 0; i < itens.length; i++) {
 			if(itens[i] != null) {
-				System.out.println("Prato: " + itens[i].getPrato().getNome() 
-						+ " | " + itens[i].getQuantidade() + " * " + itens[i].getPrato().getValor());
-				System.out.println("Subtotal: " + itens[i].calcularSubTotal());
-				totalPedido += itens[i].calcularSubTotal();
+				ItemPedido itemPedido = itens[i];
+				System.out.println("Prato: " + itemPedido.getPrato().getNome() 
+						+ " | " + itemPedido.getQuantidade() + " * " + itemPedido.getPrato().getValor());
+				System.out.println("Subtotal: " + itemPedido.calcularSubTotal());
+				totalPedido += itemPedido.calcularSubTotal();
 			}
 		}
 		totalPedido += totalPedido * 0.1;
