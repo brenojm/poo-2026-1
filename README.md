@@ -25,9 +25,12 @@ Abaixo estão os commits de cada aula. Você pode clicar no link para ver o cont
 
 | Aula | Referência do Commit |
 | :--- | :--- |
-| **Aula 01** | [`first commit`](https://github.com/brenojm/poo-2026-1/commit/8c9f402de74cf33423beda4f7bb622aeb31c6d86) |
-| **Aula 02** | [`adionando aula 3`](https://github.com/brenojm/poo-2026-1/commit/b44ab8354a59173baf8a4baa991c53e9898c4d20) |
-| **Aula 03** | [`adicionando revisao(aula 4)`](https://github.com/brenojm/poo-2026-1/commit/4d7cc737d9aaad4f95f52cf9a25631bf56d530cc) |
+| **Aula 02** | [`first commit`](https://github.com/brenojm/poo-2026-1/commit/8c9f402de74cf33423beda4f7bb622aeb31c6d86) |
+| **Aula 03** | [`adionando aula 3`](https://github.com/brenojm/poo-2026-1/commit/b44ab8354a59173baf8a4baa991c53e9898c4d20) |
+| **Aula 04** | [`adicionando revisao(aula 4)`](https://github.com/brenojm/poo-2026-1/commit/4d7cc737d9aaad4f95f52cf9a25631bf56d530cc) |
+| **Aula 05** | [`adicionando aula 5`](https://github.com/brenojm/poo-2026-1/commit/24f247f278ec60cf08ed2a4d73cd1a55deb5497b) |
+| **Aula 06** | [`adicionando aula 6`](https://github.com/brenojm/poo-2026-1/commit/4d7cc737d9aaad4f95f52cf9a25631bf56d530cc) |
+| **Aula 07** | [`adicionando aula 7`](https://github.com/brenojm/poo-2026-1/commit/86a069447362515b972a4a6d77df424870a69941) |
 
 ---
 
