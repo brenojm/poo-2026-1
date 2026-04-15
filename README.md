@@ -32,6 +32,8 @@ Abaixo estão os commits de cada aula. Você pode clicar no link para ver o cont
 | **Aula 06** | [`adicionando aula 6`](https://github.com/brenojm/poo-2026-1/commit/4d7cc737d9aaad4f95f52cf9a25631bf56d530cc) |
 | **Aula 07** | [`adicionando aula 7`](https://github.com/brenojm/poo-2026-1/commit/86a069447362515b972a4a6d77df424870a69941) |
 | **Aula 08** | [`adicionando aula 8`](https://github.com/brenojm/poo-2026-1/commit/64b320c66213e60abe4c688980a06d31b0898980) |
+| **Aula 09** | [`adicionando aula 9`](https://github.com/brenojm/poo-2026-1/commit/968966a2e85946ed0ada0855eb7e830597c6975f) |
+| **Aula 10** | [`adicionando aula 10`](https://github.com/brenojm/poo-2026-1/commit/7de88f33d87a7a40cf15a72c5f8b05baa443bc5f) |
 
 ---
 
